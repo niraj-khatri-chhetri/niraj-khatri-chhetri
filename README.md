@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niraj Kc</h1>
-<h3 align="center">Currently delving into the intricacies of Web 2.0.Ready to roll up my sleeves and embrace the future of the web 3.0.</h3>
+<h3 align="center">Currently delving into the intricacies of the power of technologies.</h3>
 
-- 🔭 I’m currently working on Mango Software Solutions. **Mid-West University ERPS**
+- 🔭 I’m currently working on Master Nepal  . **Inter shool quiz competition app using MERN stack**
 
 - 🌱 I’m currently learning **how blockchain technology governs the realm of web 3.0**
 
-- 💬 Ask me about **react, node, express,mongodb,blockchain technology**
+- 💬 Ask me about **react, node, express,mongodb** and you can hand over any project on MERN stack to me 
 
 - 📫 How to reach me **nirajkc98@gmail.com**
 
